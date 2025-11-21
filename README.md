@@ -54,8 +54,8 @@ I'm **Mulkesh Sharma**, a passionate **Full-Stack MERN Developer** & **React Nat
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mulkeshsharma&show_icons=true&theme=react&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulkeshsharma&layout=compact&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mulkesh-sharma&show_icons=true&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulkesh-sharma&layout=compact&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
