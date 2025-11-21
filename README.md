@@ -1,6 +1,6 @@
 <!-- ===================== HEADER / HERO ===================== -->
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/mulkeshsharma/mulkeshsharma/master/assets/logo.png" alt="Mulkesh Sharma — Logo" style="border-radius: 12px;"/>
+  <img width="100" src="https://raw.githubusercontent.com/Mulkesh-sharma/Mulkesh-sharma/master/assets/logo.png" alt="Mulkesh Sharma — Logo" style="border-radius: 12px;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Mulkesh Sharma</b></h1>
@@ -58,8 +58,8 @@ Explore a 3D skyline generated from my contributions.
 
 <p align="center">
   <!-- Replace url below with your actual skyline image or link -->
-  <a href="https://skyline.github.com/mulkeshsharma" target="_blank">
-    <img alt="GitHub Skyline" src="https://github-readme-skyline.vercel.app/api?user=mulkeshsharma&theme=light" width="800" />
+  <a href="https://skyline.github.com/Mulkesh-sharma" target="_blank">
+    <img alt="GitHub Skyline" src="https://github-readme-skyline.vercel.app/api?user=Mulkesh-sharma&theme=light" width="800" />
   </a>
 </p>
 
