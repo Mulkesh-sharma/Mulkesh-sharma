@@ -98,7 +98,7 @@ Explore a 3D skyline generated from my contributions.
 ## 🎨 Dark / Light Mode Images
 This README uses the `<picture>` trick to show different images based on reader's theme.
 
-```html
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mulkeshsharma/mulkeshsharma/master/assets/header-dark.gif">
   <img alt="Header" src="https://raw.githubusercontent.com/mulkeshsharma/mulkeshsharma/master/assets/header-light.gif" />
