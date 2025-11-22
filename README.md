@@ -122,8 +122,7 @@ This README uses the `<picture>` trick to show different images based on reader'
 ---
 
 ## ⭐ Fun Quote  
-> _“Code is like humor. When you have to explain it, it’s bad.”_
-
+> _“Code is like humor. When you have to explain it, it’s bad. 
 ---
 
 ## ❤️ Support My Work  
